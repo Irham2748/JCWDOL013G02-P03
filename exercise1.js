@@ -1,0 +1,1 @@
+console.log("Ujian lanjutan yang kemaren ya!");
